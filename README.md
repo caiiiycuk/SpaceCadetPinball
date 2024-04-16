@@ -16,6 +16,7 @@ Supports data files from Windows and Full Tilt versions of the game.
 | Platform           | Author          | URL                                                                                                        |
 | ------------------ | --------------- | ---------------------------------------------------------------------------------------------------------- |
 | PS Vita            | Axiom           | <https://github.com/suicvne/SpaceCadetPinball_Vita>                                                        |
+| Emscripten (2024)  | caiiiycuk       | master branch (not a fork), demo: <https://dos.zone/microsoft-3d-pinball-space-cadet/>                     |
 | Emscripten         | alula           | <https://github.com/alula/SpaceCadetPinball> <br> Play online: <https://alula.github.io/SpaceCadetPinball> |
 | Nintendo Switch    | averne          | <https://github.com/averne/SpaceCadetPinball-NX>                                                           |
 | webOS TV           | mariotaku       | <https://github.com/webosbrew/SpaceCadetPinball>                                                           |
